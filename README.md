@@ -1,8 +1,12 @@
-Self-taught developer focused on backend
+### Self-taught developer focused on backend
+- Backend services and APIs
+- CLI tools and automation scripts
+- Web, desktop and mobile apps 
+- Experiments with low-level concepts
+
 <div align="left">
 
-  <!-- Frontend -->
-  <h4>🌐 Frontend</h4>
+  <h4>Frontend</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
     <img width="12"/>
@@ -15,8 +19,7 @@ Self-taught developer focused on backend
 
   <br>
 
-  <!-- Backend -->
-  <h4>🧠 Backend</h4>
+  <h4>Backend</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
     <img width="12"/>
@@ -33,8 +36,7 @@ Self-taught developer focused on backend
 
   <br>
 
-  <!-- Tooling & Environment -->
-  <h4>⚙️ Tooling & Environment</h4>
+  <h4>Tooling & Environment</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/>
     <img width="12"/>
