@@ -51,4 +51,4 @@
 
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kaaylooon/langs)](https://githubtrends.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaaylooon)](https://github.com/kaayloon/)
