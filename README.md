@@ -50,3 +50,5 @@
   </p>
 
 </div>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kaaylooon/langs)](https://githubtrends.io)
